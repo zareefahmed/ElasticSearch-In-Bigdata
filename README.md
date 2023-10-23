@@ -29,7 +29,8 @@ This is a 40-hour structured guide designed to facilitate learning Elasticsearch
 
 **Important**
 
-> **Note:** The content provided is tentative and should be finalized after comprehensive requirement gathering and discussions among all stakeholders.
+> **Warning**
+ The content provided is tentative and should be finalized after comprehensive requirement gathering and discussions among all stakeholders.
 
 
 

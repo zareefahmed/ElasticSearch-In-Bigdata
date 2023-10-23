@@ -1,4 +1,4 @@
-# ElasticSearch-In-Bigdata
+# Introduction to ElasticSearch in Bigdata
 
 This is a 40-hour structured guide designed to facilitate learning Elasticsearch, specifically tailored for its application in Big Data scenarios. This plan is designed for individuals at the beginner skill level.  
 
